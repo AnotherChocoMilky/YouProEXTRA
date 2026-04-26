@@ -10,7 +10,7 @@ on:
 
       bundle_id:
         description: "Bundle ID (Optional)"
-        default: "com.google.ios.youtube"
+        default: "com.extra.ios.youpro"
         required: true
         type: string
 
